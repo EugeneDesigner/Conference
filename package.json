@@ -1,0 +1,26 @@
+{
+  "name": "conference",
+  "version": "1.0.0",
+  "description": "Landing page",
+  "author": "Eugene",
+  "license": "Apache-2.0",
+  "scripts": {
+    "clean": "gulp clean",
+    "build": "gulp build",
+    "watch": "gulp watch",
+    "serve": "gulp serve"
+  },
+
+  "dependencies": {
+  },
+
+  "devDependencies": {
+    "browser-sync": "^2.17.5",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-csscomb": "^3.0.8",
+    "gulp-sass": "^2.3.2",
+    "gulp-sourcemaps": "^2.2.0",
+    "node-sass": "^3.10.1"
+  }
+}

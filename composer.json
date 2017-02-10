@@ -1,0 +1,13 @@
+{
+    "name": "conference",
+    "description": "test page for conference",
+    "license": "Apache License v2.0",
+    "type": "opus-package",
+    "authors": [
+        {
+            "name": "Eugene Yarohenko",
+            "email": "eugeneyaroshenko@gmail.com",
+            "role": "Developer"
+        }
+    ]
+}
